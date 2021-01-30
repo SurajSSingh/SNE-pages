@@ -12,9 +12,9 @@
             "marketing_url": "https://standardnotes.org/extensions/action-bar",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/components/action-bar.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/action-bar/1.3.1/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/action-bar/1.3.1/index.html",
             "download_url": "https://github.com/sn-extensions/action-bar/archive/1.3.1.zip",
-            "latest_url": "https://your-domain.com/extensions/action-bar/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/action-bar/index.json"
         },
         {
             "identifier": "org.standardnotes.advanced-markdown-editor",
@@ -26,9 +26,9 @@
             "marketing_url": "https://standardnotes.org/extensions/advanced-markdown",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/adv-markdown.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/advanced-markdown-editor/1.3.9/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/advanced-markdown-editor/1.3.9/index.html",
             "download_url": "https://github.com/sn-extensions/advanced-markdown-editor/archive/1.3.9.zip",
-            "latest_url": "https://your-domain.com/extensions/advanced-markdown-editor/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/advanced-markdown-editor/index.json"
         },
         {
             "identifier": "org.standardnotes.autocomplete-tags",
@@ -39,9 +39,9 @@
             "description": "Work more efficiently by quickly selecting from a live list of tags while you type. Supports keyboard shortcuts and folders.",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/components/autocomplete.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/autocomplete-tags/1.3.2/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/autocomplete-tags/1.3.2/index.html",
             "download_url": "https://github.com/sn-extensions/autocomplete-tags/archive/1.3.2.zip",
-            "latest_url": "https://your-domain.com/extensions/autocomplete-tags/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/autocomplete-tags/index.json"
         },
         {
             "identifier": "org.standardnotes.bold-editor",
@@ -52,9 +52,9 @@
             "description": "A simple and peaceful rich editor that helps you write and think clearly. Features FileSafe integration, so you can embed your encrypted images, videos, and audio recordings directly inline.",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/bold.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/bold-editor/1.1.0/dist/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/bold-editor/1.1.0/dist/index.html",
             "download_url": "https://github.com/sn-extensions/bold-editor/archive/1.1.0.zip",
-            "latest_url": "https://your-domain.com/extensions/bold-editor/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/bold-editor/index.json"
         },
         {
             "identifier": "org.standardnotes.code-editor",
@@ -66,9 +66,9 @@
             "marketing_url": "https://standardnotes.org/extensions/code-editor",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/code.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/code-editor/1.3.5/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/code-editor/1.3.5/index.html",
             "download_url": "https://github.com/sn-extensions/code-editor/archive/1.3.5.zip",
-            "latest_url": "https://your-domain.com/extensions/code-editor/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/code-editor/index.json"
         },
         {
             "identifier": "org.standardnotes.folders-component",
@@ -79,9 +79,9 @@
             "description": "Create nested folders from your tags with easy drag and drop. Folders also supports Smart Tags, which allow you to build custom filters for viewing your notes.",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/components/folders.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/folders-component/1.3.5/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/folders-component/1.3.5/index.html",
             "download_url": "https://github.com/sn-extensions/folders-component/archive/1.3.5.zip",
-            "latest_url": "https://your-domain.com/extensions/folders-component/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/folders-component/index.json"
         },
         {
             "identifier": "org.standardnotes.github-push",
@@ -93,9 +93,9 @@
             "marketing_url": "https://standardnotes.org/extensions/github-push",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/components/github-push.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/github-push/1.2.2/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/github-push/1.2.2/index.html",
             "download_url": "https://github.com/sn-extensions/github-push/archive/1.2.2.zip",
-            "latest_url": "https://your-domain.com/extensions/github-push/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/github-push/index.json"
         },
         {
             "identifier": "org.standardnotes.simple-markdown-editor",
@@ -107,9 +107,9 @@
             "marketing_url": "https://standardnotes.org/extensions/simple-markdown-editor",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/simple-markdown.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/markdown-basic/1.3.6/dist/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/markdown-basic/1.3.6/dist/index.html",
             "download_url": "https://github.com/sn-extensions/markdown-basic/archive/1.3.6.zip",
-            "latest_url": "https://your-domain.com/extensions/markdown-basic/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/markdown-basic/index.json"
         },
         {
             "identifier": "org.standardnotes.fancy-markdown-editor",
@@ -121,9 +121,9 @@
             "marketing_url": "https://standardnotes.org/extensions/math-editor",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/fancy-markdown.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/math-editor/1.3.4/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/math-editor/1.3.4/index.html",
             "download_url": "https://github.com/sn-extensions/math-editor/archive/1.3.4.zip",
-            "latest_url": "https://your-domain.com/extensions/math-editor/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/math-editor/index.json"
         },
         {
             "identifier": "org.standardnotes.mfa-link",
@@ -133,9 +133,9 @@
             "version": "1.2.2",
             "description": "Configure two-factor authentication to add an extra level of security to your account.",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/mfa-link/1.2.2/dist/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/mfa-link/1.2.2/dist/index.html",
             "download_url": "https://github.com/sn-extensions/mfa-link/archive/1.2.2.zip",
-            "latest_url": "https://your-domain.com/extensions/mfa-link/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/mfa-link/index.json"
         },
         {
             "identifier": "org.standardnotes.minimal-markdown-editor",
@@ -147,9 +147,9 @@
             "marketing_url": "https://standardnotes.org/extensions/minimal-markdown-editor",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/min-markdown.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/minimal-markdown-editor/1.3.5/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/minimal-markdown-editor/1.3.5/index.html",
             "download_url": "https://github.com/sn-extensions/minimal-markdown-editor/archive/1.3.5.zip",
-            "latest_url": "https://your-domain.com/extensions/minimal-markdown-editor/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/minimal-markdown-editor/index.json"
         },
         {
             "identifier": "org.standardnotes.plus-editor",
@@ -161,9 +161,9 @@
             "marketing_url": "https://standardnotes.org/extensions/plus-editor",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/plus-editor.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/plus-editor/1.4.3/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/plus-editor/1.4.3/index.html",
             "download_url": "https://github.com/sn-extensions/plus-editor/archive/1.4.3.zip",
-            "latest_url": "https://your-domain.com/extensions/plus-editor/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/plus-editor/index.json"
         },
         {
             "identifier": "org.standardnotes.standard-sheets",
@@ -174,9 +174,9 @@
             "description": "A powerful spreadsheet editor with formatting and formula support. Not recommended for large data sets, as encryption of such data may decrease editor performance.",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/spreadsheets.png",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/secure-spreadsheets/1.3.6/dist/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/secure-spreadsheets/1.3.6/dist/index.html",
             "download_url": "https://github.com/sn-extensions/secure-spreadsheets/archive/1.3.6.zip",
-            "latest_url": "https://your-domain.com/extensions/secure-spreadsheets/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/secure-spreadsheets/index.json"
         },
         {
             "identifier": "org.standardnotes.simple-task-editor",
@@ -188,9 +188,9 @@
             "marketing_url": "https://standardnotes.org/extensions/simple-task-editor",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/task-editor.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/simple-task-editor/1.3.5/dist/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/simple-task-editor/1.3.5/dist/index.html",
             "download_url": "https://github.com/sn-extensions/simple-task-editor/archive/1.3.5.zip",
-            "latest_url": "https://your-domain.com/extensions/simple-task-editor/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/simple-task-editor/index.json"
         },
         {
             "identifier": "org.standardnotes.token-vault",
@@ -201,9 +201,9 @@
             "description": "Encrypt and protect your 2FA secrets for all your internet accounts. TokenVault handles your 2FA secrets so that you never lose them again, or have to start over when you get a new device.",
             "thumbnail_url": "https://standard-notes.s3.amazonaws.com/screenshots/models/editors/token-vault.png",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/token-vault/1.0.5/dist/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/token-vault/1.0.5/dist/index.html",
             "download_url": "https://github.com/sn-extensions/token-vault/archive/1.0.5.zip",
-            "latest_url": "https://your-domain.com/extensions/token-vault/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/token-vault/index.json",
             "flags": [
                 "Beta"
             ]
@@ -218,9 +218,9 @@
             "marketing_url": "https://standardnotes.org/extensions/vim-editor",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/vim.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/vim-editor/1.3.4/index.html",
+            "url": "https://surajssingh.github.io/SNE-pages/vim-editor/1.3.4/index.html",
             "download_url": "https://github.com/sn-extensions/vim-editor/archive/1.3.4.zip",
-            "latest_url": "https://your-domain.com/extensions/vim-editor/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/vim-editor/index.json"
         },
         {
             "identifier": "org.standardnotes.theme-autobiography",
@@ -231,9 +231,9 @@
             "description": "A theme for writers and readers.",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/autobiography.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/autobiography-theme/1.0.0/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/autobiography-theme/1.0.0/dist/dist.css",
             "download_url": "https://github.com/sn-extensions/autobiography-theme/archive/1.0.0.zip",
-            "latest_url": "https://your-domain.com/extensions/autobiography-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/autobiography-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#9D7441",
@@ -251,9 +251,9 @@
             "marketing_url": "https://github.com/cameronldn/sn-theme-dracula",
             "thumbnail_url": "https://raw.githubusercontent.com/cameronldn/sn-theme-dracula/master/preview.png",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/sn-theme-dracula/1.2.1/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/sn-theme-dracula/1.2.1/dist/dist.css",
             "download_url": "https://github.com/cameronldn/sn-theme-dracula/archive/1.2.1.zip",
-            "latest_url": "https://your-domain.com/extensions/sn-theme-dracula/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/sn-theme-dracula/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#8be9fd",
@@ -271,9 +271,9 @@
             "description": "A smart theme that minimizes the tags and notes panels when they are not in use.",
             "marketing_url": "https://standardnotes.org/extensions/dynamic",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/dynamic-theme/1.0.0/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/dynamic-theme/1.0.0/dist/dist.css",
             "download_url": "https://github.com/sn-extensions/dynamic-theme/archive/1.0.0.zip",
-            "latest_url": "https://your-domain.com/extensions/dynamic-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/dynamic-theme/index.json",
             "dock_icon": {
                 "type": "svg",
                 "source": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><path d=\"M15.093 6.694h0.92v2.862l3.987-4.024-3.988-4.025v2.387h-0.92c-3.694 0-5.776 2.738-7.614 5.152-1.652 2.172-3.080 4.049-5.386 4.049h-2.092v2.799h2.093c3.694 0 5.776-2.736 7.614-5.152 1.652-2.173 3.080-4.048 5.386-4.048zM5.41 8.458c0.158-0.203 0.316-0.412 0.477-0.623 0.39-0.514 0.804-1.055 1.252-1.596-1.322-1.234-2.915-2.144-5.046-2.144h-2.093v2.799h2.093c1.327 0 2.362 0.623 3.317 1.564zM16.012 13.294h-0.92c-1.407 0-2.487-0.701-3.491-1.738-0.1 0.131-0.201 0.264-0.303 0.397-0.441 0.58-0.915 1.201-1.439 1.818 1.356 1.324 3 2.324 5.232 2.324h0.92v2.398l3.989-4.025-3.988-4.025v2.851z\"></path></svg>"
@@ -290,9 +290,9 @@
             "marketing_url": "https://standardnotes.org/extensions/focused",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/focus-with-mobile.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/focus-theme/1.2.3/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/focus-theme/1.2.3/dist/dist.css",
             "download_url": "https://github.com/sn-extensions/focus-theme/archive/1.2.3.zip",
-            "latest_url": "https://your-domain.com/extensions/focus-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/focus-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#a464c2",
@@ -310,9 +310,9 @@
             "marketing_url": "https://standardnotes.org/extensions/futura",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/futura-with-mobile.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/futura-theme/1.2.2/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/futura-theme/1.2.2/dist/dist.css",
             "download_url": "https://github.com/sn-extensions/futura-theme/archive/1.2.2.zip",
-            "latest_url": "https://your-domain.com/extensions/futura-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/futura-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#fca429",
@@ -330,9 +330,9 @@
             "marketing_url": "https://standardnotes.org/extensions/midnight",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/midnight-with-mobile.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/midnight-theme/1.2.1/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/midnight-theme/1.2.1/dist/dist.css",
             "download_url": "https://github.com/sn-extensions/midnight-theme/archive/1.2.1.zip",
-            "latest_url": "https://your-domain.com/extensions/midnight-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/midnight-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#086DD6",
@@ -350,9 +350,9 @@
             "marketing_url": "https://github.com/ntran/sn-theme-muteddark",
             "thumbnail_url": "https://raw.githubusercontent.com/ntran/sn-theme-muteddark/master/thumbnail.png",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/sn-theme-muteddark/1.0.9/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/sn-theme-muteddark/1.0.9/dist/dist.css",
             "download_url": "https://github.com/ntran/sn-theme-muteddark/archive/1.0.9.zip",
-            "latest_url": "https://your-domain.com/extensions/sn-theme-muteddark/index.json"
+            "latest_url": "https://surajssingh.github.io/SNE-pages/sn-theme-muteddark/index.json"
         },
         {
             "identifier": "com.iganesh.theme-no-distraction-dynamic",
@@ -363,9 +363,9 @@
             "description": "A smart theme that minimizes the tags and notes panels when they are not in use.",
             "marketing_url": "https://standardnotes.org/extensions/dynamic",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/sn-theme-no-distraction-dynamic/1.0.0/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/sn-theme-no-distraction-dynamic/1.0.0/dist/dist.css",
             "download_url": "https://github.com/iganeshk/sn-theme-no-distraction-dynamic/archive/1.0.0.zip",
-            "latest_url": "https://your-domain.com/extensions/sn-theme-no-distraction-dynamic/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/sn-theme-no-distraction-dynamic/index.json",
             "dock_icon": {
                 "type": "svg",
                 "source": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\"><path d=\"M15.093 6.694h0.92v2.862l3.987-4.024-3.988-4.025v2.387h-0.92c-3.694 0-5.776 2.738-7.614 5.152-1.652 2.172-3.080 4.049-5.386 4.049h-2.092v2.799h2.093c3.694 0 5.776-2.736 7.614-5.152 1.652-2.173 3.080-4.048 5.386-4.048zM5.41 8.458c0.158-0.203 0.316-0.412 0.477-0.623 0.39-0.514 0.804-1.055 1.252-1.596-1.322-1.234-2.915-2.144-5.046-2.144h-2.093v2.799h2.093c1.327 0 2.362 0.623 3.317 1.564zM16.012 13.294h-0.92c-1.407 0-2.487-0.701-3.491-1.738-0.1 0.131-0.201 0.264-0.303 0.397-0.441 0.58-0.915 1.201-1.439 1.818 1.356 1.324 3 2.324 5.232 2.324h0.92v2.398l3.989-4.025-3.988-4.025v2.851z\"></path></svg>"
@@ -381,9 +381,9 @@
             "description": "A theme for focusing on your writing.",
             "marketing_url": "https://standardnotes.org/extensions/no-distraction",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/no-distraction-theme/1.2.2/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/no-distraction-theme/1.2.2/dist/dist.css",
             "download_url": "https://github.com/sn-extensions/no-distraction-theme/archive/1.2.2.zip",
-            "latest_url": "https://your-domain.com/extensions/no-distraction-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/no-distraction-theme/index.json",
             "dock_icon": {
                 "type": "svg",
                 "source": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\"><path d=\"M424 64H88c-26.6 0-48 21.6-48 48v288c0 26.4 21.4 48 48 48h336c26.4 0 48-21.6 48-48V112c0-26.4-21.4-48-48-48zm0 336H88V176h336v224z\"/></svg>"
@@ -400,9 +400,9 @@
             "marketing_url": "https://github.com/lzambarda/sn-nord-theme",
             "thumbnail_url": "https://raw.githubusercontent.com/lzambarda/sn-nord-theme/master/preview.png",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/sn-nord-theme/v0.0.2/theme.css",
+            "url": "https://surajssingh.github.io/SNE-pages/sn-nord-theme/v0.0.2/theme.css",
             "download_url": "https://github.com/lzambarda/sn-nord-theme/archive/v0.0.2.zip",
-            "latest_url": "https://your-domain.com/extensions/sn-nord-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/sn-nord-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#5E81AC",
@@ -420,9 +420,9 @@
             "marketing_url": "https://github.com/ceiphr/sn-overcast-theme",
             "thumbnail_url": "https://i.imgur.com/KDnyBGx.png",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/sn-overcast-theme/1.2.2/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/sn-overcast-theme/1.2.2/dist/dist.css",
             "download_url": "https://github.com/ceiphr/sn-overcast-theme/archive/1.2.2.zip",
-            "latest_url": "https://your-domain.com/extensions/sn-overcast-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/sn-overcast-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#039be5",
@@ -440,9 +440,9 @@
             "marketing_url": "https://github.com/christianhans/sn-pure-black-theme",
             "thumbnail_url": "https://raw.githubusercontent.com/christianhans/sn-pure-black-theme/master/preview1.png",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/sn-pure-black-theme/1.0.9/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/sn-pure-black-theme/1.0.9/dist/dist.css",
             "download_url": "https://github.com/christianhans/sn-pure-black-theme/archive/1.0.9.zip",
-            "latest_url": "https://your-domain.com/extensions/sn-pure-black-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/sn-pure-black-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#000000",
@@ -460,9 +460,9 @@
             "marketing_url": "https://standardnotes.org/extensions/solarized-dark",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/solarized-dark.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/solarized-dark-theme/1.2.1/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/solarized-dark-theme/1.2.1/dist/dist.css",
             "download_url": "https://github.com/sn-extensions/solarized-dark-theme/archive/1.2.1.zip",
-            "latest_url": "https://your-domain.com/extensions/solarized-dark-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/solarized-dark-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#2AA198",
@@ -480,9 +480,9 @@
             "marketing_url": "https://standardnotes.org/extensions/titanium",
             "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/titanium-with-mobile.jpg",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/titanium-theme/1.2.2/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/titanium-theme/1.2.2/dist/dist.css",
             "download_url": "https://github.com/sn-extensions/titanium-theme/archive/1.2.2.zip",
-            "latest_url": "https://your-domain.com/extensions/titanium-theme/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/titanium-theme/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#6e2b9e",
@@ -500,9 +500,9 @@
             "marketing_url": "https://github.com/hyphone/sn-theme-vscode",
             "thumbnail_url": "https://github.com/hyphone/sn-theme-vscode/raw/master/screenshot.png",
             "valid_until": "2030-05-16T18:35:33.000Z",
-            "url": "https://your-domain.com/extensions/sn-theme-vscode/1.0.17/dist/dist.css",
+            "url": "https://surajssingh.github.io/SNE-pages/sn-theme-vscode/1.0.17/dist/dist.css",
             "download_url": "https://github.com/hyphone/sn-theme-vscode/archive/1.0.17.zip",
-            "latest_url": "https://your-domain.com/extensions/sn-theme-vscode/index.json",
+            "latest_url": "https://surajssingh.github.io/SNE-pages/sn-theme-vscode/index.json",
             "dock_icon": {
                 "type": "circle",
                 "background_color": "#252526",
